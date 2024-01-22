@@ -1,0 +1,124 @@
+{
+  "songs": [
+    {
+      "songName": "Bohemian Rhapsody",
+      "artistName": "Queen",
+      "trackNumber": 1,
+      "file": "bohemian_rhapsody.mp3"
+    },
+    {
+      "songName": "Imagine",
+      "artistName": "John Lennon",
+      "trackNumber": 2,
+      "file": "imagine.mp3"
+    },
+    {
+      "songName": "Billie Jean",
+      "artistName": "Michael Jackson",
+      "trackNumber": 3,
+      "file": "billie_jean.mp3"
+    },
+    {
+      "songName": "Like a Rolling Stone",
+      "artistName": "Bob Dylan",
+      "trackNumber": 4,
+      "file": "rolling_stone.mp3"
+    },
+    {
+      "songName": "Hotel California",
+      "artistName": "Eagles",
+      "trackNumber": 5,
+      "file": "hotel_california.mp3"
+    },
+    {
+      "songName": "Thriller",
+      "artistName": "Michael Jackson",
+      "trackNumber": 6,
+      "file": "thriller.mp3"
+    },
+    {
+      "songName": "Hey Jude",
+      "artistName": "The Beatles",
+      "trackNumber": 7,
+      "file": "hey_jude.mp3"
+    },
+    {
+      "songName": "Stairway to Heaven",
+      "artistName": "Led Zeppelin",
+      "trackNumber": 8,
+      "file": "stairway_to_heaven.mp3"
+    },
+    {
+      "songName": "What's Going On",
+      "artistName": "Marvin Gaye",
+      "trackNumber": 9,
+      "file": "whats_going_on.mp3"
+    },
+    {
+      "songName": "Let It Be",
+      "artistName": "The Beatles",
+      "trackNumber": 10,
+      "file": "let_it_be.mp3"
+    },
+    {
+      "songName": "Like a Prayer",
+      "artistName": "Madonna",
+      "trackNumber": 11,
+      "file": "like_a_prayer.mp3"
+    },
+    {
+      "songName": "Purple Haze",
+      "artistName": "Jimi Hendrix",
+      "trackNumber": 12,
+      "file": "purple_haze.mp3"
+    },
+    {
+      "songName": "I Want to Hold Your Hand",
+      "artistName": "The Beatles",
+      "trackNumber": 13,
+      "file": "hold_your_hand.mp3"
+    },
+    {
+      "songName": "Sweet Child o' Mine",
+      "artistName": "Guns N' Roses",
+      "trackNumber": 14,
+      "file": "sweet_child.mp3"
+    },
+    {
+      "songName": "Dancing Queen",
+      "artistName": "ABBA",
+      "trackNumber": 15,
+      "file": "dancing_queen.mp3"
+    },
+    {
+      "songName": "Wish You Were Here",
+      "artistName": "Pink Floyd",
+      "trackNumber": 16,
+      "file": "wish_you_were_here.mp3"
+    },
+    {
+      "songName": "Wonderwall",
+      "artistName": "Oasis",
+      "trackNumber": 17,
+      "file": "wonderwall.mp3"
+    },
+    {
+      "songName": "Every Breath You Take",
+      "artistName": "The Police",
+      "trackNumber": 18,
+      "file": "every_breath.mp3"
+    },
+    {
+      "songName": "I Will Always Love You",
+      "artistName": "Whitney Houston",
+      "trackNumber": 19,
+      "file": "always_love_you.mp3"
+    },
+    {
+      "songName": "Smells Like Teen Spirit",
+      "artistName": "Nirvana",
+      "trackNumber": 20,
+      "file": "teen_spirit.mp3"
+    }
+  ]
+}
