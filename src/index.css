@@ -4,27 +4,11 @@ body {
   box-sizing: border-box;
 }
 
- table {
-  width: 80%;
-  margin: 50px auto;
-}
 
-thead {
-  background: rgb(220, 220, 220);
-}
 
-thead th {
-  padding: 10px 0;
-}
 
-table tbody .custom-row {
-  border: 1px solid black;
-} 
 
-table .custom-row {
-  border: 1px solid black; 
-}
 
-.custom-row:hover {
-  background-color: lightgray;
-}
+
+
+

@@ -1,0 +1,49 @@
+.player-box {
+    width: 80%;
+    margin: 50px auto 20px;
+    display: flex;
+    justify-content: space-between;
+    background: #c3b7b74c;
+    border: 1px solid #666;
+    border-radius: 5px;
+}
+
+.bt, .serch-box {
+    display: flex;
+    width: 50%;
+}
+
+.serch-box{
+    height: 30px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.serch-box button {
+    width: 120px;
+    margin: 5px;
+    border: 1px solid;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+}
+
+.serch-box button span {
+    padding: 0 5px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.serch-box input {
+    width: 50%;
+    height: 30px;
+    margin: 5px;
+    border: 1px solid #666;
+    border-radius: 15px;
+    background-size: 20px;
+}
+
+  

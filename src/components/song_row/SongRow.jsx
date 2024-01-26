@@ -1,5 +1,7 @@
 import React from 'react';
-import { useData } from '../Contexts/ContextProvider';
+import { useData } from '../../Contexts/ContextProvider';
+import './songRow.css';
+import { CaretRightOutlined } from '@ant-design/icons';
 
 function SongRow() {
     const data = useData();
@@ -17,12 +19,12 @@ function SongRow() {
             </thead>
             <tbody>
                 {data?.map((song) => (
-                    <tr className="custom-row" key={song.id}>
-                        <td>"pl"</td>
+                    <tr key={song.id}>
+                        <td><i className="fa-solid fa-border-none"></i><CaretRightOutlined /></td>
                         <td>{song.songName}</td>
                         <td>{song.artistName}</td>
                         <td>{song.trackNumber}</td>
-                        <td>sirt pt</td>
+                        <td className='icons'><i className="fa-solid fa-heart"></i>  <i className="fa-solid fa-check"></i> <i className="fa-solid fa-share"></i>  <i className="fa-solid fa-caret-down"></i></td>
                     </tr>
                 ))}
             </tbody>

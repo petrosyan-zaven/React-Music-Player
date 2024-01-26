@@ -1,0 +1,33 @@
+.music_table {
+    width: 80%;
+    margin: 0 auto;
+}
+
+thead {
+    background: #c3b7b74c;
+}
+
+th {
+    padding: 10px 5px;
+    text-align: start;
+}
+
+
+
+tbody tr td {
+    border-bottom: 1px solid #c3b7b74c;
+    padding: 7px 0;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-around;
+}
+
+tbody tr td i {
+    color: #666;
+    padding: 5px;
+    font-size: 12px;
+}
+
+

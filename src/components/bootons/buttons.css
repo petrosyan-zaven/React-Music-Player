@@ -1,0 +1,24 @@
+.buttons {
+    width: 120px;
+    height: 30px;
+    border: 1px solid;
+    border-radius: 3px;
+    margin: 5px;
+}
+
+button {
+    width: 80%;
+    height: 100%;
+    border: none;
+
+}
+
+select {
+    background: transparent;
+    -webkit-appearance: none;
+    background: url(../../../img/161210.svg) no-repeat center ;
+    background-size: 50%;
+    width: 20%;
+    height: 100%;
+  }
+  
