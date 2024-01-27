@@ -6,6 +6,10 @@ import { CaretRightOutlined } from '@ant-design/icons';
 function SongRow() {
     const data = useData();
 
+    const handlePlay =  (e) => {
+        console.log("Play  " + e);
+       }
+
     return (
         <table className='music_table'>
             <thead>
@@ -20,7 +24,7 @@ function SongRow() {
             <tbody>
                 {data?.map((song) => (
                     <tr key={song.id}>
-                        <td><i className="fa-solid fa-border-none"></i><CaretRightOutlined /></td>
+                        <td><i className="fa-solid fa-border-none"></i><button onClick={(e)=> {handlePlay(song.songName)}}><CaretRightOutlined /></button></td>
                         <td>{song.songName}</td>
                         <td>{song.artistName}</td>
                         <td>{song.trackNumber}</td>

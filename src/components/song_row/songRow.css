@@ -30,4 +30,8 @@ tbody tr td i {
     font-size: 12px;
 }
 
+tbody tr td button {
+    background: none;
+    width: 30px;
+}
 

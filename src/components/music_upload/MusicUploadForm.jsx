@@ -18,7 +18,7 @@ const MusicUploadForm = ({ onUpload }) => {
       setTimeout(() => {
         setUploading(false);
         console.log(`File "${selectedFile.name}" uploaded successfully.`);
-        onUpload(selectedFile);
+        // onUpload(selectedFile);
       }, 2000);
     }
   };
